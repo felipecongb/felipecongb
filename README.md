@@ -20,7 +20,6 @@
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
  
-  <img align="right" alt="Rafa-yoda" src="https://gph.is/g/EJgkj7e">
   ##
  
 
