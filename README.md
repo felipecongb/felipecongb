@@ -1,5 +1,5 @@
 ## Hello ! Eu Sou Felipe Consalter 
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/felipecongb">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecongb&layout=compact&langs_count=7&theme=dark"/>
